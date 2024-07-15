@@ -1,1 +1,1 @@
-# genai-knowledge-sharing
+# knowledge-sharing
